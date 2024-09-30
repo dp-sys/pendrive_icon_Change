@@ -1,3 +1,8 @@
+# Before
+<img src="https://github.com/dp-sys/pendrive_icon_Change/blob/main/before.png">
+
+# After
+<img src="https://github.com/dp-sys/pendrive_icon_Change/blob/main/after.png">
 ## Steps to change pendrive icon (icon remains on different PCs):
 - Choose the image you want as the pendrive icon.
 - Ensure the image is in 256x256 resolution and convert it to `.ico` format.
