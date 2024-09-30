@@ -1,8 +1,8 @@
 # Before
-<img src="https://github.com/dp-sys/pendrive_icon_Change/blob/main/before.png">
+<img src="https://github.com/dp-sys/pendrive_icon_Change/blob/main/src/before.png">
 
 # After
-<img src="https://github.com/dp-sys/pendrive_icon_Change/blob/main/after.png">
+<img src="https://github.com/dp-sys/pendrive_icon_Change/blob/main/src/after.png">
 
 ## Steps to change pendrive icon (icon remains on different PCs):
 - Choose the image you want as the pendrive icon.
